@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal_dark_green">#075E54</color>
+    <color name="lime">#32CD32</color>
+    <color name="light_lime">#abf7b1</color>
+    <color name="green">#00ab41</color>
+    <color name="app_chat_grey_bg">#EBEFF0</color>
+    <color name="app_chat_grey_hard">#96989A</color>
+    <color name="app_chat_colorPrimary">#FF9800</color>
+    <color name="grey_10">#e6e6e6</color>
+    <color name="overlay_dark_20">#33000000</color>
+    <color name="overlay_dark_10">#1A000000</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_60">#666666</color>
+    <color name="grey_20">#cccccc</color>
+    <color name="deep_orange_500">#FF5722</color>
+    <color name="grey_90">#263238</color>
+    <color name="grey_5">#f2f2f2</color>
+    <color name="overlay_dark_60">#99000000</color>
+    <color name="overlay_light_20">#33FFFFFF</color>
+    <color name="indigo_A700">#304FFE</color>
+    <color name="red_900">#B71C1C</color>
+</resources>

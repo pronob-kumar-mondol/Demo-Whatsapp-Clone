@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp Clone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="archived">Archived</string>
+    <string name="lorem_ipsum">Bumba\n</string>
+    <string name="medium_lorem_ipsum">If the keyboard still causes layout issues after trying the windowSoftInputMode and wrapping your layout in a ScrollView, there are a few more troubleshooting steps you can take. Here are some additional approache</string>
+</resources>
